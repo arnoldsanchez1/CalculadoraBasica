@@ -61,6 +61,22 @@ private void btn_multiplicar_Click(object sender, EventArgs e)
 }
 ```
 
+## Capturas de pantalla
+
+Pruebas con **1er. Número = 25** y **2do. Número = 5**, ejecutando la calculadora en Windows 11:
+
+### Sumar (25 + 5 = 30)
+![Sumar](capturas/1_sumar.png)
+
+### Restar (25 - 5 = 20)
+![Restar](capturas/2_restar.png)
+
+### Multiplicar (25 × 5 = 125)
+![Multiplicar](capturas/3_multiplicar.png)
+
+### Dividir (25 ÷ 5 = 5)
+![Dividir](capturas/4_dividir.png)
+
 ## Cómo ejecutarlo
 
 1. Clonar el repositorio o descargarlo.
